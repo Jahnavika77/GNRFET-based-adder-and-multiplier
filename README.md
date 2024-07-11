@@ -1,2 +1,2 @@
 # GNRFET-based-adder-and-multiplier
-GNRFET based Novel Ternary Adder and Multiplier Designs Without Using Decoders or Encoders
+GNRFET and CNTFET based Novel Ternary Adder and Multiplier Designs Without Using Decoders or Encoders
